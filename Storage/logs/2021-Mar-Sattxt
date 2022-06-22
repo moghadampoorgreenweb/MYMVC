@@ -1,0 +1,513 @@
+[27-Mar-2021 16:43:30 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('seri4es/learnin...')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[27-Mar-2021 19:14:42 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/index.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(12): Core\View::render('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:14:51 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:01 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:02 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:02 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:02 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:02 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:03 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:03 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:03 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:07 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:07 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:08 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:08 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:16:08 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'../App/Views/series/episode.php not found. '</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(31): Core\View::render('series/episode', Array)
+#1 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 16 </p>
+___________________________________________
+
+[27-Mar-2021 19:34:11 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 8 </p>
+___________________________________________
+
+[27-Mar-2021 19:38:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 8 </p>
+___________________________________________
+
+[27-Mar-2021 19:38:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 8 </p>
+___________________________________________
+
+[27-Mar-2021 19:38:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 8 </p>
+___________________________________________
+
+[27-Mar-2021 19:38:05 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 8 </p>
+___________________________________________
+
+[27-Mar-2021 19:38:05 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 8 </p>
+___________________________________________
+
+[27-Mar-2021 19:38:05 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 8 </p>
+___________________________________________
+
+[27-Mar-2021 19:39:19 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 4 </p>
+___________________________________________
+
+[27-Mar-2021 19:39:20 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 4 </p>
+___________________________________________
+
+[27-Mar-2021 19:39:20 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 4 </p>
+___________________________________________
+
+[27-Mar-2021 19:39:20 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 4 </p>
+___________________________________________
+
+[27-Mar-2021 19:39:20 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 4 </p>
+___________________________________________
+
+[27-Mar-2021 19:39:20 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 4 </p>
+___________________________________________
+
+[27-Mar-2021 19:39:21 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 4 </p>
+___________________________________________
+
+[27-Mar-2021 19:39:21 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'syntax error, unexpected 'endif' (T_ENDIF) (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(47): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(Symfony\Component\Debug\Exception\FatalThrowableError), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 4 </p>
+___________________________________________
+
+[27-Mar-2021 19:40:22 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Undefined variable: id (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(45): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(ErrorException), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 2 </p>
+___________________________________________
+
+[27-Mar-2021 19:40:23 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Undefined variable: id (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(45): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(ErrorException), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 2 </p>
+___________________________________________
+
+[27-Mar-2021 19:40:23 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Undefined variable: id (View: E:\xampp\htdocs\MVC\App\Views\series\episode.blade.php)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\PhpEngine.php(45): Illuminate\View\Engines\CompilerEngine->handleViewException(Object(ErrorException), 1)
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\view\Engines\CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('E:\\xampp\\htdocs...', Array)
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(142): Illuminate\View\Engines\CompilerEngine->get('E:\\xampp\\htdocs...', Array)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(125): Illuminate\View\View->getContents()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\view\View.php(90): Illuminate\View\View->renderContents()
+#5 E:\xampp\htdocs\MVC\Core\View.php(25): Illuminate\View\View->render()
+#6 E:\xampp\htdocs\MVC\App\Controllers\SeriesController.php(35): Core\View::rendertemplate('series/episode', Array)
+#7 [internal function]: App\Controllers\SeriesController->episode('learning-php', '3')
+#8 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#9 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('series/learning...')
+#10 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Storage\Views\38fe0a7e9f23f316fd57c69fe2d0ca5384aff1d9.php to line : 2 </p>
+___________________________________________
+

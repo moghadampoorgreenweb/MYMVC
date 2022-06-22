@@ -1,0 +1,2320 @@
+[28-Mar-2021 08:42:54 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :PDOException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'rooot'@'localhost' (using password: NO)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\Core\Model.php(16): PDO->__construct('mysql:host=loca...', 'rooot', '')
+#1 E:\xampp\htdocs\MVC\Core\Model.php(12): Core\Model->make()
+#2 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\Model->__construct()
+#3 [internal function]: App\Controllers\HomeController->index()
+#4 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#5 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#6 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Model.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 08:59:44 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 08:59:44 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 08:59:45 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 08:59:45 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 09:00:13 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 09:00:39 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 09:00:39 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 09:00:39 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 09:02:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 09:02:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 09:02:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 09:02:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :ErrorException</p>
+  <p> message :'Trying to get property 'fullname' of non-object'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Erore::erorehandller(8, 'Trying to get p...', 'E:\\xampp\\htdocs...', 18, Array)
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 18 </p>
+___________________________________________
+
+[28-Mar-2021 09:10:13 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::findid()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 19 </p>
+___________________________________________
+
+[28-Mar-2021 09:19:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined function Exception()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\Core\Model.php(13): Core\Model->chektable()
+#1 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Model->__construct()
+#2 [internal function]: App\Controllers\HomeController->index()
+#3 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#4 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#5 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Model.php to line : 38 </p>
+___________________________________________
+
+[28-Mar-2021 09:22:13 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined function Exception()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\Core\Model.php(13): Core\Model->chektable()
+#1 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Model->__construct()
+#2 [internal function]: App\Controllers\HomeController->index()
+#3 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#4 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#5 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Model.php to line : 38 </p>
+___________________________________________
+
+[28-Mar-2021 09:22:14 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined function Exception()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\Core\Model.php(13): Core\Model->chektable()
+#1 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Model->__construct()
+#2 [internal function]: App\Controllers\HomeController->index()
+#3 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#4 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#5 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Model.php to line : 38 </p>
+___________________________________________
+
+[28-Mar-2021 09:28:09 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'table name article not exist.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\Core\Model.php(15): Core\Model->chektable()
+#1 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Model->__construct()
+#2 [internal function]: App\Controllers\HomeController->index()
+#3 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#4 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#5 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Model.php to line : 40 </p>
+___________________________________________
+
+[28-Mar-2021 09:28:27 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'table name article not exist.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\Core\Model.php(15): Core\Model->chektable()
+#1 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Model->__construct()
+#2 [internal function]: App\Controllers\HomeController->index()
+#3 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#4 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#5 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Model.php to line : 40 </p>
+___________________________________________
+
+[28-Mar-2021 09:28:29 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'table name article not exist.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\Core\Model.php(15): Core\Model->chektable()
+#1 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Model->__construct()
+#2 [internal function]: App\Controllers\HomeController->index()
+#3 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#4 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#5 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Model.php to line : 40 </p>
+___________________________________________
+
+[28-Mar-2021 09:28:29 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'table name article not exist.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\Core\Model.php(15): Core\Model->chektable()
+#1 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(18): Core\Model->__construct()
+#2 [internal function]: App\Controllers\HomeController->index()
+#3 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#4 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#5 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Model.php to line : 40 </p>
+___________________________________________
+
+[28-Mar-2021 13:53:06 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:53:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:53:07 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:53:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:53:08 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:53:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:15 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:15 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:15 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:15 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:17 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:17 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:17 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:17 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 13:55:17 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 13:55:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 14:08:00 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 14:08:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 14:08:00 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 14:08:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 14:08:00 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 14:08:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 14:08:01 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 14:08:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 14:08:01 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `articles`)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(638): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(346): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2313): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2301): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2796): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2302): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(588): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(572): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(477): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): Illuminate\Database\Eloquent\Model::all()
+#10 [internal function]: App\Controllers\HomeController->index()
+#11 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#12 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#13 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 678 </p>
+___________________________________________
+
+[28-Mar-2021 14:08:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Philo\Blade\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:24
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Illuminate\Database\QueryException))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 24
+[28-Mar-2021 14:11:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Illuminate\Database\Eloquent\Model' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\composer\ClassLoader.php(444): include()
+#1 E:\xampp\htdocs\MVC\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\xampp\\htdocs...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Core\\Model')
+#3 E:\xampp\htdocs\MVC\App\Models\Article.php(6): spl_autoload_call('Core\\Model')
+#4 E:\xampp\htdocs\MVC\vendor\composer\ClassLoader.php(444): include('E:\\xampp\\htdocs...')
+#5 E:\xampp\htdocs\MVC\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\xampp\\htdocs...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Models\\Arti...')
+#7 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): spl_autoload_call('App\\Models\\Arti...')
+#8 [internal function]: App\Controllers\HomeController->index()
+#9 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#10 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#11 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Model.php to line : 7 </p>
+___________________________________________
+
+[28-Mar-2021 14:11:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:11:37 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Illuminate\Database\Eloquent\Model' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\composer\ClassLoader.php(444): include()
+#1 E:\xampp\htdocs\MVC\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\xampp\\htdocs...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Core\\Model')
+#3 E:\xampp\htdocs\MVC\App\Models\Article.php(6): spl_autoload_call('Core\\Model')
+#4 E:\xampp\htdocs\MVC\vendor\composer\ClassLoader.php(444): include('E:\\xampp\\htdocs...')
+#5 E:\xampp\htdocs\MVC\vendor\composer\ClassLoader.php(322): Composer\Autoload\includeFile('E:\\xampp\\htdocs...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Models\\Arti...')
+#7 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(16): spl_autoload_call('App\\Models\\Arti...')
+#8 [internal function]: App\Controllers\HomeController->index()
+#9 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#10 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#11 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Model.php to line : 7 </p>
+___________________________________________
+
+[28-Mar-2021 14:11:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:11:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:11:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:11:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:11:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:11:59 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:11:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:11:59 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:11:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:11:59 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:11:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:11:59 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:11:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:11:59 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:11:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:11:59 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:11:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:00 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:00 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:00 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:00 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:51 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:52 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:52 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:52 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:52 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:52 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:12:52 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:12:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:13:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:13:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:13:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:13:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:13:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:13:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:13:37 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:13:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:13:37 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:13:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:45 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:46 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:46 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:46 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:46 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:47 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:47 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:47 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:47 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:47 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:47 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:48 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:48 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:48 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 14:14:49 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 14:14:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:15:11 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:15:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:22:35 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:22:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:22:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:22:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:22:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:22:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:22:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:22:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:26:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:26:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:26:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:26:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:26:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:26:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:26:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:26:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:26:36 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:26:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:26:37 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:26:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:26:37 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:26:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:26:37 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:26:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:26:37 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:26:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:29:22 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method App\Models\Article::all()'</p>
+  <p> trace : <pre>#0 [internal function]: App\Controllers\HomeController->index()
+#1 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#2 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#3 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\App\Controllers\HomeController.php to line : 16 </p>
+___________________________________________
+
+[28-Mar-2021 19:29:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:31:37 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:31:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:31:38 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:31:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:31:38 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:31:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:31:38 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:31:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:40:23 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:40:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:40:24 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:40:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:40:24 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:40:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:40:24 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:40:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:40:25 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:40:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:40:25 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(11): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:40:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:41:46 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:41:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:41:46 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:41:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:41:46 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:41:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:43:18 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:43:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:43:19 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:43:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:43:19 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:43:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:44:07 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:44:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:44:35 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('444444444444')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[28-Mar-2021 19:44:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.404')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Exception))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:44:43 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('444444kkkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[28-Mar-2021 19:44:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.404')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Exception))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:44:50 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:44:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:54:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:54:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:54:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:54:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:54:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:54:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:54:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:54:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:54:14 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:54:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:55:52 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:55:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:55:52 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:55:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26
+[28-Mar-2021 19:55:52 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Call to undefined method Illuminate\Support\Facades\Blade::view()'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 26 </p>
+___________________________________________
+
+[28-Mar-2021 19:55:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Facades\Blade::view() in E:\xampp\htdocs\MVC\Core\View.php:26
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 26

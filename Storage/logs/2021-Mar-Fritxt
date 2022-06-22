@@ -1,0 +1,54 @@
+[26-Mar-2021 07:50:17 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 63 </p>
+___________________________________________
+
+[26-Mar-2021 07:50:17 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 63 </p>
+___________________________________________
+
+[26-Mar-2021 07:50:42 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 63 </p>
+___________________________________________
+
+[26-Mar-2021 07:50:42 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 63 </p>
+___________________________________________
+
+[26-Mar-2021 07:52:18 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 63 </p>
+___________________________________________
+
+[26-Mar-2021 07:52:20 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 63 </p>
+___________________________________________
+

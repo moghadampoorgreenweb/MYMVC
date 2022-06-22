@@ -1,0 +1,18 @@
+{
+    "autoload": {
+        "files": [
+            "Core/Helper.php"
+        ],
+        "psr-4": {
+
+            "App\\":"App/",
+            "Core\\":"Core/"
+        }
+    },
+    "require": {
+        "philo/laravel-blade": "^3.1",
+        "illuminate/database": "5.8.36",
+        "vlucas/phpdotenv": "2.3.0"
+
+    }
+}

@@ -1,0 +1,1420 @@
+[29-Mar-2021 08:41:40 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:41:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:41:41 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:41:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:41:42 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:41:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:41:42 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:41:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:44:30 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:44:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:44:30 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:44:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:44:30 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:44:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:44:31 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:44:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:44:31 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:44:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:45:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:45:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:45:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:45:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:45:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:45:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:45:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:45:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:45:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:45:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:45:04 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:45:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:45:05 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:45:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:45:05 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:45:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:45:05 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:45:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:51:54 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:51:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:52:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:52:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:52:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:52:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:52:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:52:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:52:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:52:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:52:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:52:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:52:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:52:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:52:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:52:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:52:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:52:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:52:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:52:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:52:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:52:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:53:15 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:53:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:53:15 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:53:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:53:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:53:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:53:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:53:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:59:14 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:59:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:59:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:59:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 08:59:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 08:59:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:00:55 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:00:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:00:56 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:00:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:00:56 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:00:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:00:56 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:00:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:00:56 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:00:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:00:56 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:00:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:00:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:00:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:00:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:00:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:00:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:00:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:00:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:00:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:01:54 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:01:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:01:54 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:01:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:01:54 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:01:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:01:54 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:01:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:01:55 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:01:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:01:55 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:01:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:01:55 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:01:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:01:55 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:01:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:01:55 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:01:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:01:55 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:01:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:16 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:17 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:17 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:56 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:56 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:56 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:56 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:05:57 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Error</p>
+  <p> message :'Class 'Core\Blade' not found'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(14): Core\View::rendertemplate('index')
+#1 [internal function]: App\Controllers\HomeController->index()
+#2 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#3 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch(NULL)
+#4 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\View.php to line : 23 </p>
+___________________________________________
+
+[29-Mar-2021 09:05:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Blade' not found in E:\xampp\htdocs\MVC\Core\View.php:23
+Stack trace:
+#0 E:\xampp\htdocs\MVC\Core\Erore.php(42): Core\View::rendertemplate('errors.500')
+#1 [internal function]: Core\Erore::exebtionhandler(Object(Error))
+#2 {main}
+  thrown in E:\xampp\htdocs\MVC\Core\View.php on line 23
+[29-Mar-2021 09:06:14 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 09:07:54 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 09:07:54 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 09:07:54 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 09:07:54 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 09:07:55 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 09:09:28 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(10): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 09:09:29 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(10): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 09:09:29 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(10): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 09:09:29 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(10): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 09:09:29 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(10): Core\Router->dispatch('kkk')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 11:18:49 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('g')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 11:59:58 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Exception</p>
+  <p> message :'no rute match.'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\public\index.php(9): Core\Router->dispatch('article')
+#1 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\Core\Router.php to line : 69 </p>
+___________________________________________
+
+[29-Mar-2021 15:05:25 Europe/Berlin] 
+<h1>fatal erore : </h1>
+  <p> Uncaught Exception :Illuminate\Database\QueryException</p>
+  <p> message :'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) (SQL: select * from `users` where `users`.`id` = 1 limit 1)'</p>
+  <p> trace : <pre>#0 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(624): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php(333): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#2 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2130): Illuminate\Database\Connection->select('select * from `...', Array, true)
+#3 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2118): Illuminate\Database\Query\Builder->runSelect()
+#4 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2604): Illuminate\Database\Query\Builder->Illuminate\Database\Query\{closure}()
+#5 E:\xampp\htdocs\MVC\vendor\illuminate\database\Query\Builder.php(2119): Illuminate\Database\Query\Builder->onceWithColumns(Array, Object(Closure))
+#6 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(521): Illuminate\Database\Query\Builder->get(Array)
+#7 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(505): Illuminate\Database\Eloquent\Builder->getModels(Array)
+#8 E:\xampp\htdocs\MVC\vendor\illuminate\database\Concerns\BuildsQueries.php(77): Illuminate\Database\Eloquent\Builder->get(Array)
+#9 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Builder.php(329): Illuminate\Database\Eloquent\Builder->first(Array)
+#10 E:\xampp\htdocs\MVC\vendor\illuminate\support\Traits\ForwardsCalls.php(23): Illuminate\Database\Eloquent\Builder->find(1)
+#11 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(1618): Illuminate\Database\Eloquent\Model->forwardCallTo(Object(Illuminate\Database\Eloquent\Builder), 'find', Array)
+#12 E:\xampp\htdocs\MVC\vendor\illuminate\database\Eloquent\Model.php(1630): Illuminate\Database\Eloquent\Model->__call('find', Array)
+#13 E:\xampp\htdocs\MVC\App\Controllers\HomeController.php(15): Illuminate\Database\Eloquent\Model::__callStatic('find', Array)
+#14 [internal function]: App\Controllers\HomeController->index()
+#15 E:\xampp\htdocs\MVC\Core\Router.php(59): call_user_func_array(Array, Array)
+#16 E:\xampp\htdocs\MVC\public\index.php(10): Core\Router->dispatch(NULL)
+#17 {main}</pre> </p>
+  <p> throw in :  E:\xampp\htdocs\MVC\vendor\illuminate\database\Connection.php to line : 664 </p>
+___________________________________________
+
