@@ -21,7 +21,7 @@ class View
     {
         $view=realpath(__DIR__ . '/../App/Views');
         $cath=realpath(__DIR__.'/../Storage/Views');
-       $blade= new Blade($view ,$cath);
+        $blade= new Blade($view ,$cath);
         return  $blade->view()->make($template ,$arg)->render();
     }
 }
